@@ -1,1 +1,0 @@
-opencv-python mediapipe numpy redis dataclasses  spotipy openai python-dotenv requests
